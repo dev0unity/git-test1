@@ -3,7 +3,9 @@
 - 1
 - 2
 
-링크 정보 보기
+이미지 작성 법
+
+<img title="" src="./img/img001.jpg" alt="screens" width="405">
 
 
 
