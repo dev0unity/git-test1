@@ -4,6 +4,7 @@
 <img title="" src="./img/img001.jpg" alt="screens" width="405">
 
 
+![image](./img/img001.jpg)
 
 
 여기코드
@@ -22,7 +23,6 @@ $3334444222$
 
 
 
-<img title="" src="./img/img001.jpg" alt="screens" width="405">
 
 
 
